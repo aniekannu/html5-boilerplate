@@ -94,3 +94,4 @@ the [guidelines](.github/CONTRIBUTING.md):
 
 The code is available under the [MIT license](LICENSE.txt).
 My first edit
+And also changed the color
